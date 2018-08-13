@@ -25,7 +25,7 @@
     	<groupId>org.seleniumhq.selenium</groupId>
     	<artifactId>selenium-java</artifactId>
     	<version>3.13.0</version>
-    	<scope>clean test</scope>
+    	<scope>test</scope>
     </dependency>
   </dependencies>
 </project>
