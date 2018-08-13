@@ -1,5 +1,6 @@
 package com.edureka.app.maven_sel;
 
+import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -10,7 +11,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
  */
 public class App 
 {
-    public static void main( String[] args ) throws InterruptedException
+	@Test
+	public void JenkinsTest() throws InterruptedException
     {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\manikabedi\\Desktop\\selenium\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
