@@ -63,5 +63,7 @@
 	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/maven-sel/selenium/xalan-2.7.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/maven-sel/selenium/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/maven-sel/selenium/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/maven-sel/junit/org.junit_4.12.0.v201504281640/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/maven-sel/junit/org.hamcrest.core_1.3.0.v201303031735.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
